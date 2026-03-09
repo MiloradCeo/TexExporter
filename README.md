@@ -7,3 +7,5 @@ to
 - The powerslide discord server
 - Saxon for all the code help
 - Toby for wanting to make tracks with me
+### will I do models?
+I'll try but I've no idea how
