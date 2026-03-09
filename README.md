@@ -1,2 +1,2 @@
 # TexExporter
-Ratbag games .tex file exporter
+Ratbag games .tex file exporter simply place the data directory you wish to extract next to the executable (tex) and run it if you need to extract a .pf use ExtractPF.exe under wine
